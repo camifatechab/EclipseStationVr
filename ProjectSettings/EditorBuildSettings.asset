@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/BasicScene.unity
     guid: bc761d9a86b33554f85fd11bb1f87ba3
+<<<<<<< Updated upstream
+=======
+  - enabled: 1
+    path: Assets/Camila's Folder/CamisMapLayout.unity
+    guid: ea236141e82a58749a64befa381140e1
+  - enabled: 1
+    path: Assets/Jorge's Folder/Scenes/MapLayout.unity
+    guid: 1bd77f301f63cef4f915d195124c9020
+>>>>>>> Stashed changes
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3aee76b9372917449aef639e2f74814,
       type: 2}
