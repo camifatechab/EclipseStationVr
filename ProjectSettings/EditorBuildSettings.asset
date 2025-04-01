@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Camila's Folder/CamisGravityInteraction.unity
     guid: df4bc4a24a0f0e847a6cec8d196103d6
+  - enabled: 1
+    path: Assets/Camila's Folder/GravityTwo.unity
+    guid: abf07c4cf7989ca428db285555db40e8
+  - enabled: 1
+    path: Assets/Camila's Folder/HangarGravity.unity
+    guid: 3aab5679ec0d7eb4291b5ae7912277a5
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3aee76b9372917449aef639e2f74814,
       type: 2}
