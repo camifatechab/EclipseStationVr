@@ -12,8 +12,23 @@ EditorBuildSettings:
     path: Assets/Scenes/BasicScene.unity
     guid: bc761d9a86b33554f85fd11bb1f87ba3
   - enabled: 1
-    path: Assets/Camila's Folder/CamisMapLayout.unity
+    path: Assets/Camila's Folder/Map Layout/CamisMapLayout.unity
     guid: ea236141e82a58749a64befa381140e1
+  - enabled: 1
+    path: Assets/Camila's Folder/CamisGravityInteraction.unity
+    guid: df4bc4a24a0f0e847a6cec8d196103d6
+  - enabled: 1
+    path: Assets/Camila's Folder/Gravity/GravityTwo.unity
+    guid: abf07c4cf7989ca428db285555db40e8
+  - enabled: 1
+    path: Assets/Camila's Folder/HangarGravity.unity
+    guid: 3aab5679ec0d7eb4291b5ae7912277a5
+  - enabled: 1
+    path: Assets/Camila's Folder/ZeroGravityTest.unity
+    guid: e874ed4b007fe89408305f2d4c607453
+  - enabled: 1
+    path: Assets/Camila's Folder/Gravity/Gravity Scene.unity
+    guid: bceebe1c873d9d8468ca39ec2c54f0de
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3aee76b9372917449aef639e2f74814,
       type: 2}
