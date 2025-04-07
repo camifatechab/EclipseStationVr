@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Jorge's Folder/Scenes/MapLayout.unity
     guid: 1bd77f301f63cef4f915d195124c9020
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 13f6f87036926f94ab0417ca1b31725c
+  - enabled: 1
+    path: Assets/Jorge's Folder/Scenes/TestRoom - Blaster.unity
+    guid: ae8caf4fcaa2cf1478aa82bfd08f8a27
+  - enabled: 1
+    path: Assets/Jorge's Folder/Scenes/Dialogue Test.unity
+    guid: 531da7256393f144085903d9525da0cc
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a98200731b1754,
       type: 2}
