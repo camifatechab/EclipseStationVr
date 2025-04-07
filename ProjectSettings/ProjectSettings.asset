@@ -966,11 +966,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3ad5e4ce-95ce-45c6-ad30-8b93525db847
+  cloudProjectId: 9d091b81-ecc3-4a20-a016-79b544e01d12
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: EclipseSt 2025-03-24_21-10-03
-  organizationId: camifatecha
+  projectName: EclipseSt
+  organizationId: george222012
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

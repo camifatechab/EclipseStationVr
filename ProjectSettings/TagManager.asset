@@ -9,6 +9,8 @@ TagManager:
   - Anchor
   - PlayerHand
   - Destroyer
+  - TargetBlock
+  - SpaceRock
   layers:
   - Default
   - TransparentFX
