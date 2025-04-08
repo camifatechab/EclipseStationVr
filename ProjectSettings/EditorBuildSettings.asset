@@ -4,6 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< Updated upstream
   m_Scenes:
   - enabled: 1
     path: Assets/Jorge's Folder/Scenes/MapLayout.unity
@@ -49,4 +50,10 @@ EditorBuildSettings:
     guid: 2c1b5db3c3e2de81d10983a5143f1525
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a982082731b1754, type: 2}
+=======
+  m_Scenes: []
+  m_configObjects:
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a98200731b1754,
+      type: 2}
+>>>>>>> Stashed changes
   m_UseUCBPForAssetBundles: 0
