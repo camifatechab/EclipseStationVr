@@ -7,7 +7,19 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/MAP STATION/Scene/Eclipse Station.unity
-    guid: f15aaa4670c2ac54eae12cb2dda6e0c8
+m_Scenes:
+  - enabled: 1
+    path: Assets/MAP STATION/Scene/Eclipse Station.unity
+    guid: 3fe4b5cb8937d2d47a4aedd0555b8a03
+  - enabled: 1
+    path: Assets/Jorge's Folder/Scenes/TestRoom - Blaster.unity
+    guid: ae8caf4fcaa2cf1478aa82bfd08f8a27
+  - enabled: 1
+    path: Assets/Jorge's Folder/Scenes/Dialogue Test.unity
+    guid: 531da7256393f144085903d9525da0cc
+m_configObjects:
+  com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a98200731b1754, type: 2}
+
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a98200731b1754,
       type: 2}
