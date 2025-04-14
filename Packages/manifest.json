@@ -15,7 +15,9 @@
     "com.unity.services.authentication": "3.4.0",
     "com.unity.services.multiplayer": "1.1.0",
     "com.unity.services.vivox": "16.6.0",
+
     "com.unity.shadergraph": "17.0.4",
+
     "com.unity.transport": "2.4.0",
     "com.unity.xr.hands": "1.5.0",
     "com.unity.xr.interaction.toolkit": "3.0.7",
