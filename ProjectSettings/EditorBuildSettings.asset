@@ -4,56 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< Updated upstream
   m_Scenes:
   - enabled: 1
-    path: Assets/Jorge's Folder/Scenes/MapLayout.unity
-    guid: 1bd77f93f163ceff491d5195124c9028
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 13f076a8926f94ba841c72b1b31725cc
-  - enabled: 1
-    path: Assets/Jorge's Folder/Scenes/TestRoom - Blaster.unity
-    guid: a8caf4fcaa2cf4788aa2bfdd88f08a27
-  - enabled: 1
-    path: Assets/Jorge's Folder/Scenes/Dialogue Test.unity
-    guid: 531d726539f414b88939ad952d5d8cc8
-  - enabled: 0
-    path: Assets/Scenes/BasicScene.unity
-    guid: b7c1d19a08b3354f58f1b1f1bb1f87ba3
-  - enabled: 1
-    path: Assets/Camila's Folder/Map Layout/Cami'sMapLayout.unity
-    guid: e236141028e257849e64befa3f81104e1
-  - enabled: 1
-    path: Assets/Camila's Folder/Cami'sGravityInteraction.unity
-    guid: 4bc4a2a40e878a476ace8d1861036d36
-  - enabled: 1
-    path: Assets/Camila's Folder/Gravity/GravityTwo.unity
-    guid: ab07a4c7cf7989c2ad0b285555db40e88
-  - enabled: 1
-    path: Assets/Camila's Folder/HangarGravity.unity
-    guid: 3a16597ec0eb4b2fba5991272d772af5
-  - enabled: 1
-    path: Assets/Camila's Folder/ZeroGravityTest.unity
-    guid: f22cdb70c18a48e1b9462c4d91a0ae4f
-  - enabled: 1
-    path: Assets/Camila's Folder/Gravity/Gravity Scene Basic.unity
-    guid: b3ed18c88d34d896a82ec92c5c4f5d0e
-  - enabled: 1
-    path: Assets/Camila's Folder/Gravity/Gravity Scene inside the ship.unity
-    guid: 54c1f9882f97f948488836b4374735ba
-  - enabled: 1
-    path: Assets/Camila's Folder/StartScene/MainMenuVR.unity
-    guid: 9b6e5e8bc7b4d64fa57f5d6d912501a5
-  - enabled: 1
-    path: Assets/Camila's Folder/Part1/Start.unity
-    guid: 2c1b5db3c3e2de81d10983a5143f1525
-  m_configObjects:
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a982082731b1754, type: 2}
-=======
-  m_Scenes: []
+    path: Assets/MAP STATION/Scene/Eclipse Station.unity
+    guid: f15aaa4670c2ac54eae12cb2dda6e0c8
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 87b413c5a910b15498a98200731b1754,
       type: 2}
->>>>>>> Stashed changes
   m_UseUCBPForAssetBundles: 0
